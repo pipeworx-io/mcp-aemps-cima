@@ -2,7 +2,7 @@
 
 AEMPS CIMA — the Spanish Agency for Medicines and Health Products' public register of every medicine authorised for sale in **Spain**: brand/generic search, full authorisation detail, the structured ficha técnica (SmPC) and prospecto (patient leaflet) text, current supply shortages, and a changes-since-date feed.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1683+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1843+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Scope — Spain, and only Spain
 
@@ -83,7 +83,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1683+ data sources. The
+Both URLs reach the same gateway and the same 1843+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
